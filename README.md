@@ -18,3 +18,11 @@ University, 1117 Budapest, Hungary
 <sup>*</sup>Correspondence: szathmary.eors@ecolres.hu
 
 Note: The code available from this repository is provided without any warranty or liability.
+
+
+## Overview
+
+Individual-based, stochastic model framework of parabolic replication for investigating the diversity maintaining ability of sub-exponentially growing replicator systems and the potentially relaxed copying error threshold that characterizes such dynamics.
+
+## Prerequisites
+
