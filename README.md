@@ -25,12 +25,12 @@ Individual-based, stochastic model framework of parabolic replication for invest
 
 ## Prerequisites
 
-The code available from this repository has been tested on the OS "Linux Mint 18.3" using the "4.15.0-142-generic"  Linux kernel version.
+The code available from this repository has been tested on the OS "Linux Mint 18.3" using the "4.15.0-142-generic" kernel with GCC version 5.4.0.
 
 ## Basic usage
 
 1. Move to a directory of your choice (in console): `cd /home/user/my/directory`
-2. Compile C file using GCC optimizer to yield faster<sup>*</sup> simulation: `gcc filename.c -lm -Wall -Ofast -o optional_outputname`
-3. Execute (using nohup to run the process in the background): `nohup ./optional_outputname &`
+2. Compile C file using GCC optimizer to yield faster<sup>*</sup> simulation: `gcc filename.c -lm -Wall -Ofast -o optional_executable_file_name`
+3. Run the resulting executable file (using nohup to run the process in the background): `nohup ./optional_executable_file_name &`
 
 <sup>*</sup>Optimizer usage is recommended to reduce execution time, because large population sizes and replication event numbers - as termination condition (corresponding to the combination of *N*=10<sup>5</sup> and *MAX_REPLICATIONS*=10<sup>7</sup> parameter values) - result in considerably increased execution times.
