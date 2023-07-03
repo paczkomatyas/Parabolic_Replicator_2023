@@ -19,10 +19,17 @@ University, 1117 Budapest, Hungary
 
 Note: The code available from this repository is provided without any warranty or liability.
 
-
 ## Overview
 
 Individual-based, stochastic model framework of parabolic replication for investigating the diversity maintaining ability of sub-exponentially growing replicator systems and the potentially relaxed copying error threshold that characterizes such dynamics.
 
 ## Prerequisites
 
+
+
+## Basic usage
+
+1. Move to a directory of your choice (in console): `cd /home/user/my/directory`
+2. Compile C files using GCC optimizer to yield faster<sup>*</sup> simulation: `gcc filename.c -lm -Wall -Ofast -o optional_outputname`
+
+<sup>*</sup>Optimizer usage is recommended to reduce execution time, because large population sizes (corresponding to the *N*=10<sup>5</sup value in the screened parameter space) result in considerably increased execution times.
