@@ -32,4 +32,4 @@ Individual-based, stochastic model framework of parabolic replication for invest
 1. Move to a directory of your choice (in console): `cd /home/user/my/directory`
 2. Compile C files using GCC optimizer to yield faster<sup>*</sup> simulation: `gcc filename.c -lm -Wall -Ofast -o optional_outputname`
 
-<sup>*</sup>Optimizer usage is recommended to reduce execution time, because large population sizes (corresponding to the *N*=10<sup>5</sup value in the screened parameter space) result in considerably increased execution times.
+<sup>*</sup>Optimizer usage is recommended to reduce execution time, because large population sizes (corresponding to the *N*=10<sup>5</>sup value in the screened parameter space) result in considerably increased execution times.
