@@ -25,7 +25,7 @@ Individual-based, stochastic model framework of parabolic replication for invest
 
 ## Prerequisites
 
-
+The code available from this repository has been tested on the OS "Linux Mint 18.3" using the "4.15.0-142-generic"  Linux kernel version.
 
 ## Basic usage
 
