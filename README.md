@@ -4,7 +4,7 @@ Source code for the implementation of the model described in
 
 Mátyás Paczkó<sup>1,2</sup>, Eörs Szathmáry<sup>1,3,4,*</sup>, András Szilágyi<sup>1</sup>
 
-<sup>1</sup>Institute of Evolution, Centre for Ecological Research, 1121 Budapest, Hungary
+<sup>1</sup>HUN-REN Centre for Ecological Research, Institute of Evolution, 1121 Budapest, Hungary
 
 <sup>2</sup>Doctoral School of Biology, Institute of Biology, ELTE Eötvös Loránd University, 1117
 Budapest, Hungary
