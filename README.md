@@ -31,7 +31,7 @@ The code available from this repository has been tested on the OS "Linux Mint 18
 
 1. Move to a directory of your choice (in console):
    
-   `cd /home/user/my/directory`
+   `cd /home/user/my_directory`
    
 3. Compile C file using GCC optimizer to yield faster<sup>*</sup> simulation:
    
